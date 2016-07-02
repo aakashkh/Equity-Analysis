@@ -8,4 +8,4 @@ Cipla Limited, [CIPLA] (https://www.nseindia.com/live_market/dynaContent/live_wa
 Index - [NIFTY 50] (https://www.nseindia.com/index_nse.htm)
 
 - Source of Data - National Stock Exchange of India Limited, [NSE] (https://www.nseindia.com/)
-- Read PDF for the final analysis [here] (https://github.com/aakashkh/AnalysisOfEquities-SBI_TCS_CIPLA/blob/master/ComparisonOfSecurities-SBI_TCS_CIPLA.pdf)
+- Read PDF of the final analysis [here] (https://github.com/aakashkh/AnalysisOfEquities-SBI_TCS_CIPLA/blob/master/ComparisonOfSecurities-SBI_TCS_CIPLA.pdf)
